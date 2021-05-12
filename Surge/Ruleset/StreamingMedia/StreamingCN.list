@@ -11,9 +11,6 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,video.qq.com
 DOMAIN-SUFFIX,i.qq.com
 DOMAIN-SUFFIX,v.qq.com
-# > iQiyi
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,71edge.com
 # > Youku
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,youku.com
